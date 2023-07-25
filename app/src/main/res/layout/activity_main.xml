@@ -23,6 +23,7 @@
 
         <ImageView
             android:id="@+id/imageView"
+            android:background="#3B78D3"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_margin="5dp"
@@ -32,6 +33,7 @@
 
         <ImageView
             android:id="@+id/imageView1"
+            android:background="#3B78D3"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_margin="5dp"
@@ -41,6 +43,7 @@
 
         <ImageView
             android:id="@+id/imageView2"
+            android:background="#3B78D3"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_margin="5dp"
